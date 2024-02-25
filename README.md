@@ -1,6 +1,7 @@
 # Hi there 👋I'm Manel
 
-![Brain Banner](<[banner-link](https://cdn.pixabay.com/photo/2022/12/08/06/39/artificial-7642628_1280.png)>)
+![Brain Banner](https://cdn.pixabay.com/photo/2022/12/08/06/39/artificial-7642628_1280.png)
+
 
 ## Description
 
