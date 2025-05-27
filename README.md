@@ -6,7 +6,7 @@
 ## Description
 
 **Welcome to `manie1313`!**  
-This repository showcases my journey through the realms of web devlopment, machine learning, and data analysis.   
+This repository showcases my journey through the realms of web development, machine learning, and data analysis.   
 It contains projects derived from my bachelor's (*in life sciences and neuroscience*) and  
 master's (*in Computational neuroscience, cognition and AI*) studies and various bootcamps.   
 Here, you'll find practical applications and projects using Python, SQL, and PowerBI, demonstrating my will to learn more about data science and machine learning.
